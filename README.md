@@ -4,7 +4,7 @@ This is a simple REST API built with Flask that allows you to manage a collectio
 
 ## Table of Contents
 
-- [Features](#features)
+
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
   - [Prerequisites](#prerequisites)
@@ -24,8 +24,7 @@ This is a simple REST API built with Flask that allows you to manage a collectio
 - Add new products
 - Retrieve a list of all products
 - Retrieve a single product by ID
-- Update an existing product
-- Delete a product
+
 
 ## Technologies Used
 
@@ -47,5 +46,5 @@ Make sure you have the following installed on your machine:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/onyx44q/ecomm.git
-cd ecomm
+git clone https://github.com/EmmanueKiongo/ecommmerce.git
+cd ecommmerce
